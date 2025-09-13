@@ -23,6 +23,5 @@ A simple e-commerce website to showcase fashion products with interactive featur
 
 ## How to Run
 
-1. Clone the repo:  
-```bash
+1. Clone the repo:
 git clone https://github.com/swapnilkharade45/Fashion-Hub.git
